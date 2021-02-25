@@ -1,0 +1,13 @@
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\bin\Debug\netcoreapp3.1\Homework 2-4.exe
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\bin\Debug\netcoreapp3.1\Homework 2-4.deps.json
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\bin\Debug\netcoreapp3.1\Homework 2-4.runtimeconfig.json
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\bin\Debug\netcoreapp3.1\Homework 2-4.runtimeconfig.dev.json
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\bin\Debug\netcoreapp3.1\Homework 2-4.dll
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\bin\Debug\netcoreapp3.1\Homework 2-4.pdb
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\obj\Debug\netcoreapp3.1\Homework 2-4.csprojAssemblyReference.cache
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\obj\Debug\netcoreapp3.1\Homework 2-4.AssemblyInfoInputs.cache
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\obj\Debug\netcoreapp3.1\Homework 2-4.AssemblyInfo.cs
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\obj\Debug\netcoreapp3.1\Homework 2-4.csproj.CoreCompileInputs.cache
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\obj\Debug\netcoreapp3.1\Homework 2-4.dll
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\obj\Debug\netcoreapp3.1\Homework 2-4.pdb
+C:\Users\волк не волк\source\repos\lesson2\Homework 2-4\obj\Debug\netcoreapp3.1\Homework 2-4.genruntimeconfig.cache
