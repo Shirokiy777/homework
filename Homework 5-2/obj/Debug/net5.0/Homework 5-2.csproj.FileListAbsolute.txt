@@ -1,0 +1,16 @@
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\bin\Debug\net5.0\Homework 5-2.exe
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\bin\Debug\net5.0\Homework 5-2.deps.json
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\bin\Debug\net5.0\Homework 5-2.runtimeconfig.json
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\bin\Debug\net5.0\Homework 5-2.runtimeconfig.dev.json
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\bin\Debug\net5.0\Homework 5-2.dll
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\bin\Debug\net5.0\ref\Homework 5-2.dll
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\bin\Debug\net5.0\Homework 5-2.pdb
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\obj\Debug\net5.0\Homework 5-2.csprojAssemblyReference.cache
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\obj\Debug\net5.0\Homework 5-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\obj\Debug\net5.0\Homework 5-2.AssemblyInfoInputs.cache
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\obj\Debug\net5.0\Homework 5-2.AssemblyInfo.cs
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\obj\Debug\net5.0\Homework 5-2.csproj.CoreCompileInputs.cache
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\obj\Debug\net5.0\Homework 5-2.dll
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\obj\Debug\net5.0\ref\Homework 5-2.dll
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\obj\Debug\net5.0\Homework 5-2.pdb
+C:\Users\волк не волк\source\repos\lesson2\Homework 5-2\obj\Debug\net5.0\Homework 5-2.genruntimeconfig.cache
